@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Mushroom_Farmer_App",
+    "slug": "Mushroom_Farmer_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
